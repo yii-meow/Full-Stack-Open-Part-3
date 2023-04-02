@@ -1,0 +1,21 @@
+.success {
+    color: green;
+    border-radius: 5px;
+    border-color: green;
+    font-size: 20px;
+    padding: 10px;
+    background-color: lightgrey;
+    border-style: solid;
+    margin-bottom: 10px;
+}
+
+.fail {
+    color: red;
+    border-radius: 5px;
+    border-color: red;
+    font-size: 20px;
+    padding: 10px;
+    background-color: lightgrey;
+    border-style: solid;
+    margin-bottom: 10px;
+}
